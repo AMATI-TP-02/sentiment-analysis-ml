@@ -14,7 +14,7 @@ This project focuses on performing sentiment analysis on product reviews for Cri
 The data used in this project is sourced from product reviews of Crista Spices on Amazon. The dataset contains reviews and their corresponding sentiment labels.
 ### Features
 - Sentiment analysis on product reviews
-- Implementation of LSTM neural networks
+- Implementation of LSTM
 - Visualization of sentiment classification results
 ### Installation
 To install the necessary dependencies, run:
