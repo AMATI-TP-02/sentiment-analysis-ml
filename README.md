@@ -46,5 +46,5 @@ python Sentiment_Analysis_on_Crista_Spices_Reviews.ipynb --train --data_path Cri
 ```
 ### Results
 The results of the model, including predictions and evaluation metrics, are saved in the following files:
-- CristaSpices_ReviewsModel_Processed.h5: Contains the trained LSTM model in HDF5 format.
-- CristaSpices_ReviewsModel_Processed.zip: Contains the TensorFlow.js version of the trained model for web deployment.
+- CristaSpices_ReviewsModel.h5: Contains the trained LSTM model in HDF5 format.
+- CristaSpices_ReviewsModel.zip: Contains the TensorFlow.js version of the trained model for web deployment.
